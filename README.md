@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Viraj Kausalya</h1>
+<h1 align="center">Hi 👋, I'm Viraj Kaushalya</h1>
 <h3 align="center">A passionate Mobile App developer from Sri Lanka 🇱🇰</h3>
 
 <p align="center"> 
